@@ -5,7 +5,7 @@ using System.Text;
 namespace LeoStore.Core.DomainObjects
 {
     // interface de marcação
-    public interface IAggreagteRoot
+    public interface IAggregateRoot
     {
     }
 }

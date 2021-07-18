@@ -6,7 +6,7 @@ using LeoStore.Core.DomainObjects;
 namespace LeoStore.Catalogo.Domain
 {
     // categoria atende a produto, logo produto é uma raiz de agregação
-    public class Produto : Entity, IAggreagteRoot
+    public class Produto : Entity, IAggregateRoot
     {
 
     }
